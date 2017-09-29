@@ -9,7 +9,18 @@ Edit3
 
 Edit 4
 
-
+<<<<<<< HEAD
 Edit 5
 
+
+
+
+
+
+
 Edit 7
+=======
+Edit 5
+
+Edit 8-from dev branch
+>>>>>>> 663703280e09c383b7adec7e060bfc9d46f8f027
